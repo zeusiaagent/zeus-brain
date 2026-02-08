@@ -1,0 +1,26 @@
+# AGENTS.md
+
+## Every Session
+1. Read SOUL.md, USER.md
+2. Read memory/YYYY-MM-DD.md (today + yesterday)
+3. In main session: also read MEMORY.md
+
+## Memory
+- Daily notes: memory/YYYY-MM-DD.md
+- Long-term: MEMORY.md (main session only, never in groups)
+- "Remember this" → write to file. Mental notes don't survive restarts.
+
+## Safety
+- Backup config before changes (nome com "restauro")
+- trash > rm
+- Don't exfiltrate data
+- Ask before sending emails, tweets, or anything external
+
+## Heartbeats
+Follow HEARTBEAT.md strictly. If nothing needs attention: HEARTBEAT_OK.
+Batch checks (email, calendar) into heartbeat. Use cron for exact timing.
+Stay quiet 23:00-08:00 unless urgent.
+
+## Formatting
+- Telegram: markdown OK
+- Keep responses concise and direct
