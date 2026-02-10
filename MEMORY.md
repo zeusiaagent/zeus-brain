@@ -12,7 +12,7 @@
 | 18:00 | IA Watch (Tech monitoring) |
 | 22:00 | Check-in (Diário + Protocolo) |
 | Dom 20:00 | Resumo Semanal |
-| 30min | Crypto Sentinel (BTC/ETH/FLUX) |
+| 30min | Crypto Sentinel (BTC/ETH/KAS/FLUX) |
 | 2h | Monitor Servidor |
 
 ## ⚙️ Model Chain (2026-02-10)
