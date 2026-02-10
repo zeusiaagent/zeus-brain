@@ -1,0 +1,16 @@
+{
+  "biomarkers": [
+    {
+      "data": "2026-02-10",
+      "sono_duracao": 5.091666666666667,
+      "sono_qualidade": 0,
+      "sono_eficiencia": 74,
+      "heart_rate": 60,
+      "hrv": 30,
+      "deep_sleep": 0.7666666666666667,
+      "readiness": null
+    }
+  ],
+  "suplementos": [],
+  "sintomas": []
+}

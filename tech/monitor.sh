@@ -38,8 +38,8 @@ fi
 # 6. Critical Logs (Filtered)
 LOG_FILE="/tmp/openclaw/openclaw-$(date +%Y-%m-%d).log"
 if [ -f "$LOG_FILE" ]; then
-    # Conta apenas erros reais, ignorando ruído de API
-    CRITICAL_COUNT=$(grep "ERROR\|FATAL" "$LOG_FILE" | grep -v "429" | grep -v "403" | grep -v "no TTY" | grep -v "jq: error" | grep -v "systemctl" | wc -l)
+    # Conta apenas erros reais, ignorando ruído comum
+    CRITICAL_COUNT=$(grep "ERROR\|FATAL" "$LOG_FILE" | grep -v "429" | grep -v "403" | grep -v "no TTY" | grep -v "jq: error" | grep -v "systemctl" | grep -v "No such file or directory" | grep -v "command not found" | grep -v "externally-managed-environment" | wc -l)
     
     if [ "$CRITICAL_COUNT" -gt 5 ]; then
         ALERTS+="\n❌ Logs: $CRITICAL_COUNT CRITICAL errors detected today"
