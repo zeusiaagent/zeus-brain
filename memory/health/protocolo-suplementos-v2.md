@@ -1,5 +1,13 @@
 # Protocolo de Suplementação Revisto — V2 (Fev 2026)
 
+## 🚨 Ações Críticas em Andamento (Fev 2026)
+- ✅ **Doação de Sangue #1:** AGENDADA (ferritina 229 → target <150)
+  - Centro: Hematologia Aveiro
+  - Frequência: A cada 2-3 meses
+  - Log: health/logs/blood-donation-2026.md
+- ⏳ **IP6 (Ácido Fítico):** Encomendar 1-2g (chelação ferro, entre refeições)
+- ⏳ **Selénio Saturação:** 4-6 semanas ANTES de escalar Iodo (200µg/dia)
+
 ## Filosofia
 - **Foco:** Longevidade Funcional (100 anos com qualidade).
 - **Dieta Base:** Carnívora + Lácteos Seleccionados.
