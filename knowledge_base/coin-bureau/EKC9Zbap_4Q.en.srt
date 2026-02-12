@@ -1,0 +1,1992 @@
+1
+00:00:00,160 --> 00:00:05,279
+For years now, Tether's USDT has been
+
+2
+00:00:02,879 --> 00:00:07,600
+the default crypto dollar. If you've
+
+3
+00:00:05,279 --> 00:00:09,840
+traded crypto on an exchange or moved
+
+4
+00:00:07,600 --> 00:00:12,080
+money across borders at light speed,
+
+5
+00:00:09,840 --> 00:00:13,840
+then you've probably used it. But
+
+6
+00:00:12,080 --> 00:00:17,279
+there's always been one uncomfortable
+
+7
+00:00:13,840 --> 00:00:19,840
+aspect to USDT, compliance, especially
+
+8
+00:00:17,279 --> 00:00:23,039
+in the biggest arena of all, the United
+
+9
+00:00:19,840 --> 00:00:25,760
+States. So now Tether has made a bold
+
+10
+00:00:23,039 --> 00:00:29,119
+move. It's launched a separate US
+
+11
+00:00:25,760 --> 00:00:31,840
+focused stable coin, US80, built for
+
+12
+00:00:29,119 --> 00:00:34,239
+America's new stablecoin rule book.
+
+13
+00:00:31,840 --> 00:00:36,480
+That's a shot fired in the stable coin
+
+14
+00:00:34,239 --> 00:00:39,440
+wars. Tether doesn't just want to
+
+15
+00:00:36,480 --> 00:00:42,239
+dominate offshore, it also wants a legit
+
+16
+00:00:39,440 --> 00:00:45,760
+onshore product, too. Right where Circle
+
+17
+00:00:42,239 --> 00:00:48,000
+and USDC have been strongest. And at the
+
+18
+00:00:45,760 --> 00:00:50,000
+same time, Tether is sending a totally
+
+19
+00:00:48,000 --> 00:00:53,039
+different message to the market with
+
+20
+00:00:50,000 --> 00:00:56,079
+gold. not just their tokenized gold, but
+
+21
+00:00:53,039 --> 00:00:58,320
+a real horde of precious metal on such a
+
+22
+00:00:56,079 --> 00:01:02,079
+scale that Tether is now being treated
+
+23
+00:00:58,320 --> 00:01:06,400
+as a serious player in the $34 trillion
+
+24
+00:01:02,079 --> 00:01:09,119
+gold market. So, what is USAT? Why build
+
+25
+00:01:06,400 --> 00:01:11,360
+it alongside USDT? What's the endgame
+
+26
+00:01:09,119 --> 00:01:14,320
+with all that gold? And how does Tether
+
+27
+00:01:11,360 --> 00:01:16,720
+plan to remain the king of stable coins?
+
+28
+00:01:14,320 --> 00:01:18,960
+We dive into all of that and more in
+
+29
+00:01:16,720 --> 00:01:21,360
+today's video. My name is Guy and you're
+
+30
+00:01:18,960 --> 00:01:23,040
+watching the Coin Bureau.
+
+31
+00:01:21,360 --> 00:01:24,799
+First up though, I must make one thing
+
+32
+00:01:23,040 --> 00:01:26,000
+clear. I'm not a financial adviser and
+
+33
+00:01:24,799 --> 00:01:27,920
+nothing in this video should be
+
+34
+00:01:26,000 --> 00:01:30,240
+considered financial advice. This is
+
+35
+00:01:27,920 --> 00:01:32,720
+just our take on the big moves Tether is
+
+36
+00:01:30,240 --> 00:01:34,640
+making to retain its crown. And if you
+
+37
+00:01:32,720 --> 00:01:36,560
+like content like this, then show us by
+
+38
+00:01:34,640 --> 00:01:40,079
+hitting that like button and let's get
+
+39
+00:01:36,560 --> 00:01:43,759
+started. All right, let's begin with
+
+40
+00:01:40,079 --> 00:01:46,640
+Tether's new stable coin UST. The main
+
+41
+00:01:43,759 --> 00:01:49,920
+difference from Tether's USDT is pretty
+
+42
+00:01:46,640 --> 00:01:52,720
+straightforward. UST isn't just USDT
+
+43
+00:01:49,920 --> 00:01:55,280
+branded for the American market. It's a
+
+44
+00:01:52,720 --> 00:01:57,680
+separate stable coin with a US native
+
+45
+00:01:55,280 --> 00:01:59,600
+setup created because the US has
+
+46
+00:01:57,680 --> 00:02:02,799
+established a federal rule book for
+
+47
+00:01:59,600 --> 00:02:05,040
+stable coins and that rulebook must be
+
+48
+00:02:02,799 --> 00:02:07,759
+complied with. Tether's CEO Paulo
+
+49
+00:02:05,040 --> 00:02:10,319
+Arduino announced the launch of USAT
+
+50
+00:02:07,759 --> 00:02:12,319
+just a couple of weeks ago. Former White
+
+51
+00:02:10,319 --> 00:02:15,599
+House official Bo Hines leads the
+
+52
+00:02:12,319 --> 00:02:18,000
+project as CEO of Tether USAT, while
+
+53
+00:02:15,599 --> 00:02:20,720
+Anchorage Digital Bank will operate as
+
+54
+00:02:18,000 --> 00:02:23,680
+the issuer. Notably, Tether has said
+
+55
+00:02:20,720 --> 00:02:26,160
+that USDT will keep operating as a
+
+56
+00:02:23,680 --> 00:02:28,400
+foreign stable coin, while the new US
+
+57
+00:02:26,160 --> 00:02:30,959
+product is built to meet regulations
+
+58
+00:02:28,400 --> 00:02:34,000
+laid out in the Genius Act. In Tether's
+
+59
+00:02:30,959 --> 00:02:36,400
+official communications regarding USAT,
+
+60
+00:02:34,000 --> 00:02:39,519
+it outlines all the disclaimers US
+
+61
+00:02:36,400 --> 00:02:41,599
+regulators want to hear. USAT is not
+
+62
+00:02:39,519 --> 00:02:44,239
+legal tender. It's not issued or
+
+63
+00:02:41,599 --> 00:02:49,040
+guaranteed by the US government and it's
+
+64
+00:02:44,239 --> 00:02:51,440
+not protected by FDIC or SIPC insurance.
+
+65
+00:02:49,040 --> 00:02:53,840
+That might sound like straightforward
+
+66
+00:02:51,440 --> 00:02:56,080
+legal stuff, but it isn't. It's the
+
+67
+00:02:53,840 --> 00:02:58,640
+whole strategy. That's because the
+
+68
+00:02:56,080 --> 00:03:01,120
+Genius Act sets a baseline for what a
+
+69
+00:02:58,640 --> 00:03:03,200
+legal stable coin means in the US. The
+
+70
+00:03:01,120 --> 00:03:05,920
+law states that stable coins must be
+
+71
+00:03:03,200 --> 00:03:08,959
+backed onetoone with liquid assets like
+
+72
+00:03:05,920 --> 00:03:12,000
+US dollars or short-term treasuries.
+
+73
+00:03:08,959 --> 00:03:14,239
+Also, issuers have to publish monthly
+
+74
+00:03:12,000 --> 00:03:16,640
+public disclosures about reserve
+
+75
+00:03:14,239 --> 00:03:19,120
+composition. It also highlights strict
+
+76
+00:03:16,640 --> 00:03:21,360
+marketing rules, no implying your
+
+77
+00:03:19,120 --> 00:03:24,159
+governmentbacked, insured or legal
+
+78
+00:03:21,360 --> 00:03:26,560
+tender. And that's why the issuer of the
+
+79
+00:03:24,159 --> 00:03:28,640
+stable coin is an important factor. When
+
+80
+00:03:26,560 --> 00:03:30,560
+a stable coin is issued through a
+
+81
+00:03:28,640 --> 00:03:33,040
+federally supervised bank such as
+
+82
+00:03:30,560 --> 00:03:35,440
+Anchorage, it changes everything. The
+
+83
+00:03:33,040 --> 00:03:37,680
+focus is no longer on whether the peg
+
+84
+00:03:35,440 --> 00:03:39,840
+holds because there's a strict set of
+
+85
+00:03:37,680 --> 00:03:42,319
+examinations, oversight, and operating
+
+86
+00:03:39,840 --> 00:03:44,480
+standards inside a system built to
+
+87
+00:03:42,319 --> 00:03:47,760
+punish financial funny business.
+
+88
+00:03:44,480 --> 00:03:49,840
+Anchorage issues USAT directly from its
+
+89
+00:03:47,760 --> 00:03:51,760
+federally regulated bank under the
+
+90
+00:03:49,840 --> 00:03:53,840
+oversight of the office of the
+
+91
+00:03:51,760 --> 00:03:56,159
+controller of the currency. It's
+
+92
+00:03:53,840 --> 00:03:59,280
+essentially Anchorage broadcasting that
+
+93
+00:03:56,159 --> 00:04:01,680
+USAT is being produced inside the
+
+94
+00:03:59,280 --> 00:04:04,000
+American banking perimeter with bank
+
+95
+00:04:01,680 --> 00:04:06,799
+grade compliance, risk management, and
+
+96
+00:04:04,000 --> 00:04:10,319
+reserve transparency presented as core
+
+97
+00:04:06,799 --> 00:04:12,560
+features. So where does that leave USDT?
+
+98
+00:04:10,319 --> 00:04:14,319
+Well, USDT remains the global
+
+99
+00:04:12,560 --> 00:04:16,639
+heavyweight. It's the token that is
+
+100
+00:04:14,319 --> 00:04:18,959
+already everywhere in crypto, used by
+
+101
+00:04:16,639 --> 00:04:21,040
+traders, exchanges, and people who just
+
+102
+00:04:18,959 --> 00:04:24,240
+want digital dollars that move fast and
+
+103
+00:04:21,040 --> 00:04:26,320
+freely. But Tether knows the US is
+
+104
+00:04:24,240 --> 00:04:28,560
+changing the rules of engagement and the
+
+105
+00:04:26,320 --> 00:04:30,880
+US is of course a major market for
+
+106
+00:04:28,560 --> 00:04:33,040
+crypto. So instead of trying to force
+
+107
+00:04:30,880 --> 00:04:35,919
+USDT to operate in some kind of gray
+
+108
+00:04:33,040 --> 00:04:38,400
+area, Tether is creating a dedicated US
+
+109
+00:04:35,919 --> 00:04:40,800
+product that starts with compliance and
+
+110
+00:04:38,400 --> 00:04:44,400
+works backwards. That's the realization
+
+111
+00:04:40,800 --> 00:04:46,800
+that Tether appears to have had. So USAT
+
+112
+00:04:44,400 --> 00:04:49,199
+is Tether acknowledging that being the
+
+113
+00:04:46,800 --> 00:04:51,360
+biggest isn't the same as being welcome
+
+114
+00:04:49,199 --> 00:04:53,600
+in the biggest market. And with that,
+
+115
+00:04:51,360 --> 00:04:57,040
+you can see what Tether is really trying
+
+116
+00:04:53,600 --> 00:04:59,600
+to do. Keep USDT dominant globally while
+
+117
+00:04:57,040 --> 00:05:02,160
+making sure it can't be boxed out of US
+
+118
+00:04:59,600 --> 00:05:04,800
+institutional demand as stable coins get
+
+119
+00:05:02,160 --> 00:05:08,400
+pulled deeper into regulated finance.
+
+120
+00:05:04,800 --> 00:05:10,320
+So, USAT is an effort from Tether to not
+
+121
+00:05:08,400 --> 00:05:13,039
+only retain its title as the leading
+
+122
+00:05:10,320 --> 00:05:15,680
+stable coin issuer, but also go after
+
+123
+00:05:13,039 --> 00:05:18,639
+more market share. But how firm is
+
+124
+00:05:15,680 --> 00:05:20,479
+Tether's lead? Is it now set to eat its
+
+125
+00:05:18,639 --> 00:05:25,280
+competitors? Well, according to Coin
+
+126
+00:05:20,479 --> 00:05:28,160
+Gecko data, USDT sits at a $185 billion
+
+127
+00:05:25,280 --> 00:05:30,720
+market cap, while the newly minted US
+
+128
+00:05:28,160 --> 00:05:32,800
+has a market cap of $20 million.
+
+129
+00:05:30,720 --> 00:05:35,440
+Granted, it's in its infancy. In any
+
+130
+00:05:32,800 --> 00:05:38,080
+case, Tether dominates the stable coin
+
+131
+00:05:35,440 --> 00:05:40,720
+market with about 60% market share,
+
+132
+00:05:38,080 --> 00:05:44,400
+while Circle's USDC, the next largest
+
+133
+00:05:40,720 --> 00:05:46,400
+competitor, sits at only 23%. But if you
+
+134
+00:05:44,400 --> 00:05:48,639
+want to understand the stable coin war,
+
+135
+00:05:46,400 --> 00:05:51,520
+it makes more sense to see what the
+
+136
+00:05:48,639 --> 00:05:53,680
+trajectory has been like recently. Why?
+
+137
+00:05:51,520 --> 00:05:56,720
+Well, because crypto has been trending
+
+138
+00:05:53,680 --> 00:05:59,199
+down for months and now even the total
+
+139
+00:05:56,720 --> 00:06:01,919
+stable coin market cap is falling. When
+
+140
+00:05:59,199 --> 00:06:04,319
+times are tough and BTC is dragging all
+
+141
+00:06:01,919 --> 00:06:06,639
+manner of market metrics down with it,
+
+142
+00:06:04,319 --> 00:06:09,440
+you get insight into which crypto assets
+
+143
+00:06:06,639 --> 00:06:12,639
+have more resilience. Since mid January
+
+144
+00:06:09,440 --> 00:06:15,520
+2026, the overall stable coin market cap
+
+145
+00:06:12,639 --> 00:06:18,639
+began to decline from its peak of $311
+
+146
+00:06:15,520 --> 00:06:21,680
+billion. And who was leading the way?
+
+147
+00:06:18,639 --> 00:06:23,919
+Circles USDC. But let's put numbers on
+
+148
+00:06:21,680 --> 00:06:25,600
+this to better illustrate the point. At
+
+149
+00:06:23,919 --> 00:06:29,199
+the time of making this video, in the
+
+150
+00:06:25,600 --> 00:06:33,039
+early days of February 2026, USDT sits
+
+151
+00:06:29,199 --> 00:06:35,440
+at a market cap of about $185 billion.
+
+152
+00:06:33,039 --> 00:06:37,600
+since mid January when the total stable
+
+153
+00:06:35,440 --> 00:06:40,319
+coin market cap began falling. That's
+
+154
+00:06:37,600 --> 00:06:44,160
+only down around 0.9%
+
+155
+00:06:40,319 --> 00:06:47,919
+from its all-time high. Meanwhile, USDC
+
+156
+00:06:44,160 --> 00:06:52,000
+now sits at just under 71 billion. Since
+
+157
+00:06:47,919 --> 00:06:54,240
+mid January, that's down about 6.5%.
+
+158
+00:06:52,000 --> 00:06:58,400
+So, both are feeling the pressure as
+
+159
+00:06:54,240 --> 00:07:00,960
+crypto goes further risk off. But USDC
+
+160
+00:06:58,400 --> 00:07:03,360
+has been shrinking a lot faster. And
+
+161
+00:07:00,960 --> 00:07:06,639
+that gap is where the real fight is
+
+162
+00:07:03,360 --> 00:07:08,720
+happening because USDC and USDT have
+
+163
+00:07:06,639 --> 00:07:10,479
+always had different selling points.
+
+164
+00:07:08,720 --> 00:07:12,560
+Circle's main selling point has been
+
+165
+00:07:10,479 --> 00:07:14,639
+compliance. A stable coin that always
+
+166
+00:07:12,560 --> 00:07:16,639
+plays by the rules and is built for the
+
+167
+00:07:14,639 --> 00:07:19,199
+regulated world. And that's important
+
+168
+00:07:16,639 --> 00:07:21,199
+for people or entities moving size like
+
+169
+00:07:19,199 --> 00:07:23,199
+banks, payments giants, and other
+
+170
+00:07:21,199 --> 00:07:25,759
+institutions with strict compliance.
+
+171
+00:07:23,199 --> 00:07:28,080
+Case in point, in December last year,
+
+172
+00:07:25,759 --> 00:07:31,520
+Visa announced it was expanding stable
+
+173
+00:07:28,080 --> 00:07:33,120
+coin settlement for US banks using USDC.
+
+174
+00:07:31,520 --> 00:07:35,840
+And that form of integration is
+
+175
+00:07:33,120 --> 00:07:37,919
+precisely where circle plans to thrive.
+
+176
+00:07:35,840 --> 00:07:39,840
+It may not be the most exciting headline
+
+177
+00:07:37,919 --> 00:07:41,840
+for crypton natives, but it's the sort
+
+178
+00:07:39,840 --> 00:07:43,919
+of thing that creates an avenue for
+
+179
+00:07:41,840 --> 00:07:45,599
+major stable coin adoption. Tether's
+
+180
+00:07:43,919 --> 00:07:49,039
+main edge, on the other hand, has
+
+181
+00:07:45,599 --> 00:07:50,960
+historically been distribution. USDT
+
+182
+00:07:49,039 --> 00:07:53,919
+started the stable coin model we know
+
+183
+00:07:50,960 --> 00:07:55,759
+today. It's the first stable coin most
+
+184
+00:07:53,919 --> 00:07:58,000
+people in crypto started their journey
+
+185
+00:07:55,759 --> 00:08:00,319
+with and it's widely used across all
+
+186
+00:07:58,000 --> 00:08:02,720
+manner of exchanges and even across
+
+187
+00:08:00,319 --> 00:08:05,120
+borders. Tether's brand is the default
+
+188
+00:08:02,720 --> 00:08:07,280
+for many crypto natives and the firm has
+
+189
+00:08:05,120 --> 00:08:09,759
+only built on that reputation over the
+
+190
+00:08:07,280 --> 00:08:12,240
+years. Now, the problem for Circle is
+
+191
+00:08:09,759 --> 00:08:14,960
+that compliance has been a moat mainly
+
+192
+00:08:12,240 --> 00:08:17,280
+because Tether didn't have a US product
+
+193
+00:08:14,960 --> 00:08:19,120
+that could credibly play that game. But
+
+194
+00:08:17,280 --> 00:08:20,960
+that's what changed at the end of
+
+195
+00:08:19,120 --> 00:08:24,479
+January when Tether and Anchorage
+
+196
+00:08:20,960 --> 00:08:27,280
+Digital announced the US focused UST.
+
+197
+00:08:24,479 --> 00:08:29,199
+USAT is the first credible domestic
+
+198
+00:08:27,280 --> 00:08:31,520
+competitor for institutional dollars
+
+199
+00:08:29,199 --> 00:08:35,279
+that could genuinely threaten Circle's
+
+200
+00:08:31,520 --> 00:08:37,599
+positioning around USDC. So shots very
+
+201
+00:08:35,279 --> 00:08:40,399
+much fired because if Tether can keep
+
+202
+00:08:37,599 --> 00:08:43,120
+its global dominance with USDT and also
+
+203
+00:08:40,399 --> 00:08:45,519
+offer a USfriendly option with US80,
+
+204
+00:08:43,120 --> 00:08:48,000
+then Circle's main differentiator begins
+
+205
+00:08:45,519 --> 00:08:51,200
+to look less exclusive. But having said
+
+206
+00:08:48,000 --> 00:08:54,240
+that, Circle excels in a metric that's
+
+207
+00:08:51,200 --> 00:08:56,640
+hard to ignore, user activity. According
+
+208
+00:08:54,240 --> 00:09:00,160
+to data from Artemis Analytics, stable
+
+209
+00:08:56,640 --> 00:09:04,480
+coin transactions hit $33 trillion in
+
+210
+00:09:00,160 --> 00:09:07,839
+2025 and USDC accounted for $18.3
+
+211
+00:09:04,480 --> 00:09:11,920
+trillion of that versus 13.3 trillion
+
+212
+00:09:07,839 --> 00:09:15,200
+for USDT. So even while USDT is much
+
+213
+00:09:11,920 --> 00:09:17,839
+larger by supply, USDC has been doing
+
+214
+00:09:15,200 --> 00:09:20,480
+more movement. That tells you the
+
+215
+00:09:17,839 --> 00:09:22,959
+crucial difference. Supply dominance and
+
+216
+00:09:20,480 --> 00:09:24,959
+usage dominance aren't the same thing.
+
+217
+00:09:22,959 --> 00:09:27,040
+Tether's brand can be the default
+
+218
+00:09:24,959 --> 00:09:29,519
+digital dollar people hold and quote
+
+219
+00:09:27,040 --> 00:09:31,279
+against, while USDC can be the one
+
+220
+00:09:29,519 --> 00:09:33,680
+that's used disproportionately in
+
+221
+00:09:31,279 --> 00:09:36,320
+settlement and highfrequency onchain
+
+222
+00:09:33,680 --> 00:09:38,240
+activity. In a downturn, both can
+
+223
+00:09:36,320 --> 00:09:41,040
+shrink, but they shrink for different
+
+224
+00:09:38,240 --> 00:09:42,800
+reasons and to different degrees. And by
+
+225
+00:09:41,040 --> 00:09:44,720
+the way, if you want to stay informed on
+
+226
+00:09:42,800 --> 00:09:46,880
+the battle between Tether and Circle as
+
+227
+00:09:44,720 --> 00:09:49,200
+it rages on, then you should sign up for
+
+228
+00:09:46,880 --> 00:09:51,200
+the weekly Coinbureau newsletter. It's
+
+229
+00:09:49,200 --> 00:09:53,279
+absolutely free and you can sign up
+
+230
+00:09:51,200 --> 00:09:54,800
+using the link in the description. And
+
+231
+00:09:53,279 --> 00:09:57,120
+while you're at it, why not check out
+
+232
+00:09:54,800 --> 00:09:59,200
+the exclusive deals we've secured for
+
+233
+00:09:57,120 --> 00:10:01,279
+viewers of this channel. These include
+
+234
+00:09:59,200 --> 00:10:03,839
+huge signup bonuses and trading fee
+
+235
+00:10:01,279 --> 00:10:06,000
+discounts on crypto's leading exchanges,
+
+236
+00:10:03,839 --> 00:10:08,800
+great deals on hardware wallets, and
+
+237
+00:10:06,000 --> 00:10:11,360
+much more. All that is accessible via
+
+238
+00:10:08,800 --> 00:10:13,760
+this QR code right here. So, take a
+
+239
+00:10:11,360 --> 00:10:15,839
+look. Now, Tether's strategic stable
+
+240
+00:10:13,760 --> 00:10:17,440
+coin moves are one thing, but if we want
+
+241
+00:10:15,839 --> 00:10:19,600
+to know what Tether thinks the future
+
+242
+00:10:17,440 --> 00:10:22,240
+looks like, we need to look beyond the
+
+243
+00:10:19,600 --> 00:10:25,440
+stable coins themselves and look closer
+
+244
+00:10:22,240 --> 00:10:28,320
+at Tether's reserves. What sticks out?
+
+245
+00:10:25,440 --> 00:10:30,000
+Gold and lots of it. In the latest
+
+246
+00:10:28,320 --> 00:10:33,519
+assurance report covering the end of
+
+247
+00:10:30,000 --> 00:10:37,200
+2025, Tether's issuer entity says it had
+
+248
+00:10:33,519 --> 00:10:39,680
+$192 billion in reserves backing its
+
+249
+00:10:37,200 --> 00:10:43,440
+fiat peg tokens with assets exceeding
+
+250
+00:10:39,680 --> 00:10:46,240
+liabilities by about $6.3 billion. In
+
+251
+00:10:43,440 --> 00:10:49,760
+the breakup of what's backing USDT,
+
+252
+00:10:46,240 --> 00:10:52,560
+precious metals comes in at $17.45
+
+253
+00:10:49,760 --> 00:10:55,920
+billion. And what's that referring to
+
+254
+00:10:52,560 --> 00:10:58,320
+exactly? Physical gold bars owned by
+
+255
+00:10:55,920 --> 00:11:00,720
+Tether International. Now, that whopping
+
+256
+00:10:58,320 --> 00:11:02,880
+hoorde of gold is changing the optics
+
+257
+00:11:00,720 --> 00:11:04,880
+around Tether, the organization. Sure,
+
+258
+00:11:02,880 --> 00:11:06,560
+the majority is still classic stable
+
+259
+00:11:04,880 --> 00:11:09,040
+coin stuff like shortdated treasury
+
+260
+00:11:06,560 --> 00:11:11,440
+bills and reverse repo, but once you're
+
+261
+00:11:09,040 --> 00:11:13,440
+holding gold in the tens of billions,
+
+262
+00:11:11,440 --> 00:11:16,399
+you're carving out a prominent place for
+
+263
+00:11:13,440 --> 00:11:19,760
+yourself in the $34 trillion gold
+
+264
+00:11:16,399 --> 00:11:22,480
+market. And that's exactly how Tether
+
+265
+00:11:19,760 --> 00:11:24,640
+wants to be seen. Mainstream media has
+
+266
+00:11:22,480 --> 00:11:27,360
+been reporting that Tether has become a
+
+267
+00:11:24,640 --> 00:11:29,519
+serious presence in the gold market.
+
+268
+00:11:27,360 --> 00:11:32,240
+Based on that latest attestation,
+
+269
+00:11:29,519 --> 00:11:36,640
+Bloomberg estimated Tether had a pile of
+
+270
+00:11:32,240 --> 00:11:38,720
+around 140 tons stored in Switzerland.
+
+271
+00:11:36,640 --> 00:11:41,440
+That's big enough such that it's
+
+272
+00:11:38,720 --> 00:11:43,760
+described as the largest known stash of
+
+273
+00:11:41,440 --> 00:11:46,560
+bullion outside of banks and nation
+
+274
+00:11:43,760 --> 00:11:48,800
+states. Tether CEO Paulo Arduino offered
+
+275
+00:11:46,560 --> 00:11:51,200
+some comment to Reuters that align with
+
+276
+00:11:48,800 --> 00:11:54,320
+that estimate. He told reporters that
+
+277
+00:11:51,200 --> 00:11:56,640
+Tether already had about 130 metric tons
+
+278
+00:11:54,320 --> 00:11:59,600
+of physical gold and that they're buying
+
+279
+00:11:56,640 --> 00:12:01,600
+roughly two tons a week. Arduino said
+
+280
+00:11:59,600 --> 00:12:04,720
+the firm wants gold to represent
+
+281
+00:12:01,600 --> 00:12:07,519
+something like 10 to 15% of the firm's
+
+282
+00:12:04,720 --> 00:12:09,519
+investment portfolio over time. So just
+
+283
+00:12:07,519 --> 00:12:11,839
+what the heck is Tether up to here?
+
+284
+00:12:09,519 --> 00:12:14,399
+Well, for one, the gold can be viewed as
+
+285
+00:12:11,839 --> 00:12:16,320
+a macro hedge. Gold's been on a tear
+
+286
+00:12:14,399 --> 00:12:18,240
+even considering the recent sell-off.
+
+287
+00:12:16,320 --> 00:12:20,560
+And if you're throwing off huge profits
+
+288
+00:12:18,240 --> 00:12:22,560
+from rate driven income, converting some
+
+289
+00:12:20,560 --> 00:12:25,120
+of that into a hard asset could make
+
+290
+00:12:22,560 --> 00:12:27,279
+sense. But the deeper play is
+
+291
+00:12:25,120 --> 00:12:29,200
+reputational. Tether is trying to
+
+292
+00:12:27,279 --> 00:12:32,320
+graduate from a crypto issuer that
+
+293
+00:12:29,200 --> 00:12:34,959
+prints USDT to a collateral manager that
+
+294
+00:12:32,320 --> 00:12:37,760
+can run reserves across industries and
+
+295
+00:12:34,959 --> 00:12:39,760
+across cycles. There's also the pure
+
+296
+00:12:37,760 --> 00:12:42,399
+business side of things with Tether's
+
+297
+00:12:39,760 --> 00:12:44,399
+tokenized gold. Now, to be clear, the
+
+298
+00:12:42,399 --> 00:12:47,760
+gold backing Tether's tokenized gold
+
+299
+00:12:44,399 --> 00:12:50,160
+token X aut is separate from the gold on
+
+300
+00:12:47,760 --> 00:12:52,320
+Tether's balance sheet regarding USDT.
+
+301
+00:12:50,160 --> 00:12:55,920
+But anyway, the tokenized gold market
+
+302
+00:12:52,320 --> 00:12:58,800
+sits at over $6 billion, growing 4x
+
+303
+00:12:55,920 --> 00:13:01,200
+since the end of 2024. Tether wants to
+
+304
+00:12:58,800 --> 00:13:03,760
+dominate that market as it does US
+
+305
+00:13:01,200 --> 00:13:06,320
+dollar stable coins. But this is where
+
+306
+00:13:03,760 --> 00:13:09,120
+the gold story stops being universally
+
+307
+00:13:06,320 --> 00:13:10,560
+flattering because backing tokenized
+
+308
+00:13:09,120 --> 00:13:12,639
+gold with actual gold is
+
+309
+00:13:10,560 --> 00:13:15,440
+straightforward. But Tether using gold
+
+310
+00:13:12,639 --> 00:13:17,600
+as partial backing for USDT is another
+
+311
+00:13:15,440 --> 00:13:20,000
+thing entirely and it's drawing some
+
+312
+00:13:17,600 --> 00:13:22,639
+scrutiny from the market. In November,
+
+313
+00:13:20,000 --> 00:13:26,320
+S&P Global downgraded its stability
+
+314
+00:13:22,639 --> 00:13:28,800
+assessment of USDT to five, the lowest
+
+315
+00:13:26,320 --> 00:13:31,040
+score on its scale. They cited Tether's
+
+316
+00:13:28,800 --> 00:13:34,079
+increased exposure to higher risk assets
+
+317
+00:13:31,040 --> 00:13:36,800
+like BTC and gold alongside secured
+
+318
+00:13:34,079 --> 00:13:39,519
+loans, corporate bonds, and what S&P
+
+319
+00:13:36,800 --> 00:13:41,760
+called persistent gaps in disclosure
+
+320
+00:13:39,519 --> 00:13:44,800
+around custodians and counterparties.
+
+321
+00:13:41,760 --> 00:13:47,440
+Now, as anyone who's studied the 2008
+
+322
+00:13:44,800 --> 00:13:49,519
+global financial crisis can tell you,
+
+323
+00:13:47,440 --> 00:13:52,800
+ratings agencies don't always get it
+
+324
+00:13:49,519 --> 00:13:55,120
+right. Far from it. Nevertheless, S&P
+
+325
+00:13:52,800 --> 00:13:57,680
+Global's perception of Tether still
+
+326
+00:13:55,120 --> 00:14:01,040
+captures the institutional mindset.
+
+327
+00:13:57,680 --> 00:14:03,120
+Stable coins are supposed to be boring.
+
+328
+00:14:01,040 --> 00:14:04,880
+The more complicated the backing gets,
+
+329
+00:14:03,120 --> 00:14:07,040
+the more you're asking the market to
+
+330
+00:14:04,880 --> 00:14:09,519
+trust your judgment under pressure. In
+
+331
+00:14:07,040 --> 00:14:12,560
+that context, Tether's issuance of a US
+
+332
+00:14:09,519 --> 00:14:14,959
+compliant USAT is no surprise. It's a
+
+333
+00:14:12,560 --> 00:14:16,880
+clear move to capture more institutional
+
+334
+00:14:14,959 --> 00:14:19,199
+demand for stable coins. But in any
+
+335
+00:14:16,880 --> 00:14:22,880
+case, Tether reportedly finds itself
+
+336
+00:14:19,199 --> 00:14:25,360
+holding 140 plus tons of gold, and that
+
+337
+00:14:22,880 --> 00:14:28,160
+will play a key role in the company's
+
+338
+00:14:25,360 --> 00:14:30,480
+future plans. But what do those plans
+
+339
+00:14:28,160 --> 00:14:32,240
+actually look like? What is Tether's
+
+340
+00:14:30,480 --> 00:14:35,040
+strategy going forward? Well, for
+
+341
+00:14:32,240 --> 00:14:37,120
+starters, with that 140 tons of gold,
+
+342
+00:14:35,040 --> 00:14:40,000
+Tether isn't just collecting shiny
+
+343
+00:14:37,120 --> 00:14:43,040
+rocks. It's starting to treat bullion
+
+344
+00:14:40,000 --> 00:14:45,440
+like a business. In late 2025, Tether
+
+345
+00:14:43,040 --> 00:14:47,920
+planned a dramatic expansion in lending
+
+346
+00:14:45,440 --> 00:14:51,040
+to commodities traders after extending
+
+347
+00:14:47,920 --> 00:14:53,040
+roughly $1.5 billion worth of credit.
+
+348
+00:14:51,040 --> 00:14:55,279
+That's notable because commodity trading
+
+349
+00:14:53,040 --> 00:14:58,000
+is basically built on credit and
+
+350
+00:14:55,279 --> 00:15:00,000
+collateral. If you have a monster
+
+351
+00:14:58,000 --> 00:15:02,000
+balance sheet and a growing pile of
+
+352
+00:15:00,000 --> 00:15:04,399
+precious metals, you can do more than
+
+353
+00:15:02,000 --> 00:15:06,720
+just sit there hoping the price goes up.
+
+354
+00:15:04,399 --> 00:15:09,199
+Tether plans to keep pushing profits
+
+355
+00:15:06,720 --> 00:15:11,440
+into gold while also starting to compete
+
+356
+00:15:09,199 --> 00:15:13,839
+with banks in trading the metal,
+
+357
+00:15:11,440 --> 00:15:17,120
+recruiting two senior gold traders from
+
+358
+00:15:13,839 --> 00:15:19,360
+HSBC late last year. That's a pretty
+
+359
+00:15:17,120 --> 00:15:21,440
+clear signal. They're not only thinking
+
+360
+00:15:19,360 --> 00:15:24,079
+about reserves, they're thinking about
+
+361
+00:15:21,440 --> 00:15:26,560
+market making and inventory. Tether has
+
+362
+00:15:24,079 --> 00:15:28,720
+also held talks to invest across the
+
+363
+00:15:26,560 --> 00:15:31,040
+gold supply chain from mining and
+
+364
+00:15:28,720 --> 00:15:33,440
+refining to royalty businesses while
+
+365
+00:15:31,040 --> 00:15:36,160
+also expanding into commodity trade
+
+366
+00:15:33,440 --> 00:15:38,240
+finance. But let's bring things back to
+
+367
+00:15:36,160 --> 00:15:40,800
+stable coins because the gold strategy,
+
+368
+00:15:38,240 --> 00:15:43,440
+as big as it is, sits inside something
+
+369
+00:15:40,800 --> 00:15:45,360
+bigger. Tether's whole game is
+
+370
+00:15:43,440 --> 00:15:47,519
+distribution, jurisdictional
+
+371
+00:15:45,360 --> 00:15:49,759
+positioning, and partnerships with a
+
+372
+00:15:47,519 --> 00:15:52,880
+side order of diversification. In
+
+373
+00:15:49,759 --> 00:15:55,519
+January 2025, Tether relocated to El
+
+374
+00:15:52,880 --> 00:15:57,279
+Salvador after securing a digital asset
+
+375
+00:15:55,519 --> 00:15:59,360
+service provider license there. And
+
+376
+00:15:57,279 --> 00:16:02,000
+Paulo Arduino said it would be the
+
+377
+00:15:59,360 --> 00:16:03,920
+company's first physical headquarters.
+
+378
+00:16:02,000 --> 00:16:05,920
+That choice is about anchoring the
+
+379
+00:16:03,920 --> 00:16:07,199
+company in a place that welcomes it
+
+380
+00:16:05,920 --> 00:16:10,160
+while the rest of the world's
+
+381
+00:16:07,199 --> 00:16:13,600
+jurisdictions finalize exactly how hard
+
+382
+00:16:10,160 --> 00:16:15,920
+they want to squeeze stable coins. USAT
+
+383
+00:16:13,600 --> 00:16:18,480
+has been a clear play. With that in
+
+384
+00:16:15,920 --> 00:16:20,399
+mind, the US has largely formalized its
+
+385
+00:16:18,480 --> 00:16:22,959
+view on stable coins and it's a key
+
+386
+00:16:20,399 --> 00:16:25,199
+market for obvious reasons. And Tether
+
+387
+00:16:22,959 --> 00:16:27,279
+needs to win in that region because in
+
+388
+00:16:25,199 --> 00:16:30,000
+other regions, the squeeze has been
+
+389
+00:16:27,279 --> 00:16:32,320
+real. In Europe, Micro regulations have
+
+390
+00:16:30,000 --> 00:16:34,639
+pushed exchanges into cutting off stable
+
+391
+00:16:32,320 --> 00:16:37,279
+coins they can't comfortably support.
+
+392
+00:16:34,639 --> 00:16:40,399
+Binance has delisted non-compliant
+
+393
+00:16:37,279 --> 00:16:43,279
+stable coins for EA users, including
+
+394
+00:16:40,399 --> 00:16:45,920
+USDT. And Asia isn't exactly anything
+
+395
+00:16:43,279 --> 00:16:48,399
+goes either. Hong Kong's regulator has
+
+396
+00:16:45,920 --> 00:16:50,639
+been moving slowly, but expects to issue
+
+397
+00:16:48,399 --> 00:16:54,399
+its first batch of stable coin issuer
+
+398
+00:16:50,639 --> 00:16:56,959
+licenses in March 2026, and only a very
+
+399
+00:16:54,399 --> 00:16:58,639
+small number at first. Japan, meanwhile,
+
+400
+00:16:56,959 --> 00:17:01,120
+already directs issuance through
+
+401
+00:16:58,639 --> 00:17:03,600
+regulated financial institutions, while
+
+402
+00:17:01,120 --> 00:17:05,839
+Korea is still building a one stable
+
+403
+00:17:03,600 --> 00:17:08,160
+coin framework designed to keep issuers
+
+404
+00:17:05,839 --> 00:17:10,240
+under strict oversight. But beyond
+
+405
+00:17:08,160 --> 00:17:12,640
+stable coins and gold, Tether is
+
+406
+00:17:10,240 --> 00:17:15,360
+actually diversifying further. It's
+
+407
+00:17:12,640 --> 00:17:17,919
+among a long list of firms investing in
+
+408
+00:17:15,360 --> 00:17:20,799
+Bitcoin mining operations powered by
+
+409
+00:17:17,919 --> 00:17:24,160
+renewables. The company has also put
+
+410
+00:17:20,799 --> 00:17:27,199
+money into things as far apart as a $775
+
+411
+00:17:24,160 --> 00:17:29,840
+million stake in video platform Rumble
+
+412
+00:17:27,199 --> 00:17:32,080
+and is in talks about a potential 1
+
+413
+00:17:29,840 --> 00:17:35,200
+billion euro investment into German
+
+414
+00:17:32,080 --> 00:17:37,200
+robotics firm NORA. So, Tether is
+
+415
+00:17:35,200 --> 00:17:39,760
+complementing its massive moves in
+
+416
+00:17:37,200 --> 00:17:42,400
+stable coins and gold with a whole slew
+
+417
+00:17:39,760 --> 00:17:44,880
+of other major ventures. When a stable
+
+418
+00:17:42,400 --> 00:17:47,039
+coin issuer is trading gold, financing
+
+419
+00:17:44,880 --> 00:17:49,840
+commodities, buying energy, and building
+
+420
+00:17:47,039 --> 00:17:52,640
+a huge investment portfolio, well, the
+
+421
+00:17:49,840 --> 00:17:55,520
+label of crypto company begins to sound
+
+422
+00:17:52,640 --> 00:17:58,080
+a little wide of the mark. And given how
+
+423
+00:17:55,520 --> 00:18:00,559
+broad Tether's activities have become,
+
+424
+00:17:58,080 --> 00:18:03,280
+it's increasingly difficult to pin down
+
+425
+00:18:00,559 --> 00:18:05,600
+what kind of company it really is. And
+
+426
+00:18:03,280 --> 00:18:08,160
+that sets up one of the main criticisms
+
+427
+00:18:05,600 --> 00:18:09,679
+that's emerged amid its latest push with
+
+428
+00:18:08,160 --> 00:18:12,400
+USAT.
+
+429
+00:18:09,679 --> 00:18:14,799
+Can one brand credibly sell two
+
+430
+00:18:12,400 --> 00:18:16,799
+completely different versions of digital
+
+431
+00:18:14,799 --> 00:18:19,200
+dollars without the trust issues
+
+432
+00:18:16,799 --> 00:18:22,799
+bleeding across all while it becomes a
+
+433
+00:18:19,200 --> 00:18:24,559
+gold behemoth and a venture firm? USAT
+
+434
+00:18:22,799 --> 00:18:27,440
+changes Tether's business both
+
+435
+00:18:24,559 --> 00:18:29,120
+explicitly and implicitly. Tether isn't
+
+436
+00:18:27,440 --> 00:18:31,600
+just promising that everything is fine
+
+437
+00:18:29,120 --> 00:18:33,679
+anymore. It's explicitly stepping closer
+
+438
+00:18:31,600 --> 00:18:35,919
+to the world of institutional due
+
+439
+00:18:33,679 --> 00:18:38,320
+diligence and disclosure expectations
+
+440
+00:18:35,919 --> 00:18:41,440
+that don't really care about crypto's
+
+441
+00:18:38,320 --> 00:18:43,919
+old norms. However, now that we have a
+
+442
+00:18:41,440 --> 00:18:46,400
+US-friendly Tether stable coin, the
+
+443
+00:18:43,919 --> 00:18:49,440
+brand is implicitly admitting the other
+
+444
+00:18:46,400 --> 00:18:52,080
+product USDT isn't built for the same
+
+445
+00:18:49,440 --> 00:18:53,760
+standards. Now, some users won't care.
+
+446
+00:18:52,080 --> 00:18:56,559
+They just want a stable token that's
+
+447
+00:18:53,760 --> 00:18:59,200
+widely accepted. But others might wonder
+
+448
+00:18:56,559 --> 00:19:02,000
+if Tether can do a regulated product for
+
+449
+00:18:59,200 --> 00:19:04,080
+the US, why should markets tolerate
+
+450
+00:19:02,000 --> 00:19:06,320
+opacity and reserve complexity in the
+
+451
+00:19:04,080 --> 00:19:08,559
+offshore giant? And from that
+
+452
+00:19:06,320 --> 00:19:11,120
+perspective, Tether's hoorde of gold
+
+453
+00:19:08,559 --> 00:19:14,559
+adds more complexity to this identity
+
+454
+00:19:11,120 --> 00:19:18,320
+problem. Tether ended 2025 with gold
+
+455
+00:19:14,559 --> 00:19:21,440
+holdings above $17 billion alongside net
+
+456
+00:19:18,320 --> 00:19:23,440
+profits topping $10 billion. That's
+
+457
+00:19:21,440 --> 00:19:25,919
+clearly a company that wants to be seen
+
+458
+00:19:23,440 --> 00:19:28,240
+as a serious collateral manager, not
+
+459
+00:19:25,919 --> 00:19:30,480
+just a token issuer. But in that,
+
+460
+00:19:28,240 --> 00:19:32,960
+they're also handing critics a clear
+
+461
+00:19:30,480 --> 00:19:35,520
+target. Stable coin backing is supposed
+
+462
+00:19:32,960 --> 00:19:37,919
+to be boring and liquid, especially
+
+463
+00:19:35,520 --> 00:19:40,640
+under stress. And as we just saw with
+
+464
+00:19:37,919 --> 00:19:43,280
+the 30th of January metals wipeout, any
+
+465
+00:19:40,640 --> 00:19:46,400
+gold backing of USDT becomes more
+
+466
+00:19:43,280 --> 00:19:48,799
+questionable. Gold dropped over 20%
+
+467
+00:19:46,400 --> 00:19:51,520
+across just 3 days. And that's not to
+
+468
+00:19:48,799 --> 00:19:53,360
+mention the moves BTC is capable of
+
+469
+00:19:51,520 --> 00:19:57,360
+considering it's another alternative
+
+470
+00:19:53,360 --> 00:19:59,520
+asset backing USDT. So, can Tether pull
+
+471
+00:19:57,360 --> 00:20:02,000
+off being the best of both worlds
+
+472
+00:19:59,520 --> 00:20:05,039
+without tripping over itself? Well,
+
+473
+00:20:02,000 --> 00:20:07,280
+quite possibly if UST stays truly
+
+474
+00:20:05,039 --> 00:20:09,360
+ringing fenced and institutions treat it
+
+475
+00:20:07,280 --> 00:20:12,559
+like a separate product with separate
+
+476
+00:20:09,360 --> 00:20:15,440
+rules. But if the market views Tether as
+
+477
+00:20:12,559 --> 00:20:17,760
+one unified reputation, then things
+
+478
+00:20:15,440 --> 00:20:20,880
+could get messy. A controversy around
+
+479
+00:20:17,760 --> 00:20:24,080
+USDT could contaminate USAT by
+
+480
+00:20:20,880 --> 00:20:26,799
+association and the scrutiny that comes
+
+481
+00:20:24,080 --> 00:20:29,840
+with USAT could raise uncomfortable
+
+482
+00:20:26,799 --> 00:20:32,960
+questions that USDT has historically
+
+483
+00:20:29,840 --> 00:20:35,840
+been able to sidestep. But for now,
+
+484
+00:20:32,960 --> 00:20:38,880
+Tether is king and there's no sign of
+
+485
+00:20:35,840 --> 00:20:41,760
+anyone else taking that crown anytime
+
+486
+00:20:38,880 --> 00:20:44,159
+soon. Well, that's our outlook on Tether
+
+487
+00:20:41,760 --> 00:20:46,159
+and its major moves in stable coins and
+
+488
+00:20:44,159 --> 00:20:48,559
+beyond. But what do you think? Is Tether
+
+489
+00:20:46,159 --> 00:20:50,960
+destined to remain king or is it trying
+
+490
+00:20:48,559 --> 00:20:52,880
+to do too much too fast? Let us know
+
+491
+00:20:50,960 --> 00:20:54,799
+your thoughts down in the comments. And
+
+492
+00:20:52,880 --> 00:20:56,799
+if you want to find out why stable coins
+
+493
+00:20:54,799 --> 00:20:58,799
+are at the center of crypto regulation
+
+494
+00:20:56,799 --> 00:21:00,880
+controversy, you can watch our video on
+
+495
+00:20:58,799 --> 00:21:02,480
+that right over here. That's all from me
+
+496
+00:21:00,880 --> 00:21:04,320
+for today, though. As always, thank you
+
+497
+00:21:02,480 --> 00:21:08,720
+for watching and I'll see you in the
+
+498
+00:21:04,320 --> 00:21:08,720
+next one. This is Guy signing off.
+

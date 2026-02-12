@@ -20,3 +20,6 @@ youtube_videos/
 scholar/
 zeus_scholar_deep_learning/
 primal_podcast_videos_analysis.md
+tech/secrets/
+*.mp4
+*.webm

@@ -9,6 +9,26 @@
       "hrv": 30,
       "deep_sleep": 0.7666666666666667,
       "readiness": null
+    },
+    {
+      "data": "2026-02-11",
+      "sono_duracao": 6.925,
+      "sono_qualidade": 0,
+      "sono_eficiencia": 88,
+      "heart_rate": 54,
+      "hrv": 48,
+      "deep_sleep": 0.475,
+      "readiness": null
+    },
+    {
+      "data": "2026-02-12",
+      "sono_duracao": 6.683333333333334,
+      "sono_qualidade": 0,
+      "sono_eficiencia": 83,
+      "heart_rate": 56,
+      "hrv": 41,
+      "deep_sleep": 0.65,
+      "readiness": null
     }
   ],
   "suplementos": [],
