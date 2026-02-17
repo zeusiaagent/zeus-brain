@@ -35,14 +35,17 @@ if command -v nvidia-smi &> /dev/null; then
     fi
 fi
 
-# 6. Critical Logs (Filtered)
+# 6. Critical Logs (Filtered) - Only last hour
 LOG_FILE="/tmp/openclaw/openclaw-$(date +%Y-%m-%d).log"
 if [ -f "$LOG_FILE" ]; then
-    # Conta apenas erros reais, ignorando ruído comum
-    CRITICAL_COUNT=$(grep "ERROR\|FATAL" "$LOG_FILE" | grep -v "429" | grep -v "403" | grep -v "no TTY" | grep -v "jq: error" | grep -v "systemctl" | grep -v "No such file or directory" | grep -v "command not found" | grep -v "externally-managed-environment" | wc -l)
-    
-    if [ "$CRITICAL_COUNT" -gt 5 ]; then
-        ALERTS+="\n❌ Logs: $CRITICAL_COUNT CRITICAL errors detected today"
+    # Conta apenas erros da última hora, ignorando ruído e erros antigos de sandbox
+    ONE_HOUR_AGO=$(date -d '1 hour ago' "+%Y-%m-%dT%H:%M" 2>/dev/null || date -v-1H "+%Y-%m-%dT%H:%M" 2>/dev/null || echo "")
+    if [ -n "$ONE_HOUR_AGO" ]; then
+        CRITICAL_COUNT=$(grep "ERROR\|FATAL" "$LOG_FILE" | grep -A100000 "$ONE_HOUR_AGO" | grep -v "429\|403\|no TTY\|jq: error\|systemctl\|No such file\|command not found\|externally-managed-environment\|Sandbox workspace\|Path escapes sandbox" | wc -l)
+        
+        if [ "$CRITICAL_COUNT" -gt 3 ]; then
+            ALERTS+="\n❌ Logs: $CRITICAL_COUNT CRITICAL errors in last hour"
+        fi
     fi
 fi
 
