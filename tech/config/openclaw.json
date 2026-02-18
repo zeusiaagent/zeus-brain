@@ -172,7 +172,7 @@
         "zai/glm-5": {
           "alias": "glm"
         },
-        "anthropic/claude-sonnet-4-6": {
+        "anthropic/claude-sonnet-4-5-20250929": {
           "alias": "sonnet",
           "params": {
             "cacheRetention": "long"
