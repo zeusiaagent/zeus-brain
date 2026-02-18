@@ -7,17 +7,24 @@
 | Hora | Tarefa |
 |------|--------|
 | 04:00 | Manutenção (cleanup.sh) |
-| 07:30 | BioMonitor (Oura → JSON) |
-| 08:30 | Super Briefing (Crypto + Tech) |
+| 08:30 | BioMonitor (Oura → JSON) |
+| 09:00 | Super Briefing (Crypto + Tech) |
 | 18:00 | IA Watch (Tech monitoring) |
 | 22:00 | Check-in (Diário + Protocolo) |
+| 23:00 | GitHub Backup (automático) |
 | Dom 20:00 | Resumo Semanal |
-| 30min | Crypto Sentinel (BTC/ETH/KAS/FLUX) |
+| 60min | Crypto Sentinel (BTC/ETH/KAS/FLUX) |
 | 2h | Monitor Servidor |
 
-## ⚙️ Model Chain (2026-02-10)
-**Primary:** ollama/qwen3-coder:30b (Local, 0€)  
-**Fallbacks:** Flash → Haiku → Kimi 128k → Sonnet → Pro → Opus
+## 📝 Standard de Formatação 2025
+**Referência:** `memory/skills/formatting-standard.md`  
+**Aplica-se a:** Todos os relatórios agendados  
+**Princípios:** Linguagem clara, frases curtas (máx 20 palavras), emojis estratégicos, negrito em valores, itálico em fontes
+
+## ⚙️ Model Chain (2026-02-18)
+**Primary:** moonshot/kimi-k2.5 (262K ctx, €0.6/€2.5)  
+**Fallbacks:** ollama/qwen3-coder:30b → xai/grok-4-1-fast-reasoning  
+**Aliases:** kimi, local, grok, glm, sonnet, haiku, opus
 
 ## 📋 Regras Críticas
 - ❌ Sem tabelas markdown em Telegram (use listas + emojis)
