@@ -9,3 +9,6 @@
 - **Daily Log:** `memory/YYYY-MM-DD.md` para decisões, alterações, contexto
 - **Context Files:** Atualizações em health/, finance/, tech/ quando há mudanças
 - **Regra Crítica:** Não confies na memória de sessão — guarda tudo nos ficheiros
+
+## Cron Jobs
+- **MarketWatch Volatility Check:** Executa todas as horas, verifica variação em ativos (BTC/ETH/KAS/FLUX)
