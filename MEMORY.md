@@ -26,6 +26,11 @@
 **Fallbacks:** ollama/qwen3-coder:30b → xai/grok-4-1-fast-reasoning  
 **Aliases:** kimi, local, grok, glm, sonnet, haiku, opus
 
+### Modelos Claude Disponíveis
+• `sonnet` → Claude Sonnet 4.6 (Anthropic)  
+• `haiku` → Claude Haiku 4.5 (Anthropic)  
+• `opus` → Claude Opus 4.6 (Anthropic)
+
 ## 📋 Regras Críticas
 - ❌ Sem tabelas markdown em Telegram (use listas + emojis)
 - ❌ Sem passwords hardcoded (use tech/secrets/)
